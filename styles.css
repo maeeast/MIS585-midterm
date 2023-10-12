@@ -162,7 +162,7 @@ main {
 /* Hero Section Styling */
 .hero {
   background-image: linear-gradient(#7e7ba3cc, #7e7ba3cc),
-    url("/images/groupwork.jpg");
+    url("images/groupwork.jpg");
   background-size: cover;
   background-position: center bottom;
   height: 250px;
